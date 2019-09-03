@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Video Player</string>
+
+    <string name="play"> >>| </string>
+    <string name="stop"> >>| </string>
+    <string name="prev"><![CDATA[|<<]]></string>
+    <string name="back"><![CDATA[<<]]></string>
+    <string name="forword"><![CDATA[>>]]></string>
+    <string name="next"><![CDATA[>>|]]></string>
+
+
+</resources>
